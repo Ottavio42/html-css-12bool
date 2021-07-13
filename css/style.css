@@ -1,0 +1,23 @@
+
+.debug [class*="col-"]{
+    min-height: 50px;
+    background-color:blue;
+    border: 1px solid #ffffff;
+   
+}
+.box{
+    padding: 10px;
+    text-align: center;
+    color: #ffffff;
+    
+}
+.box-nested{
+    margin: 4px;
+    background-color: lawngreen;
+    text-align: center;
+    min-height: 40px;
+    line-height: 40px;
+}
+.first-section{
+    margin-bottom: 20px;
+}
